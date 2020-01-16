@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="wausaujs_logo7.svg"
+   inkscape:export-filename="/home/sam/Documents/projects/wausaujs_logo7.png"
+   inkscape:export-xdpi="299.8898"
+   inkscape:export-ydpi="299.8898"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <defs
+     id="defs2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+</defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="847.77716"
+     inkscape:cy="-299.1914"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1672"
+     inkscape:window-x="0"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4796"
+       transform="matrix(4.2558974,0,0,4.2558974,-1126.5357,-964.38855)">
+      <g
+         transform="matrix(2.0011331,0,0,2.0011331,-311.40797,-322.15987)"
+         id="g4761">
+        <path
+           id="path3812"
+           d="m 319.12133,306.97857 h -7.67873 c -0.21379,0 -0.38709,0.1733 -0.38709,0.50959 v 14.04249 c 0,0.0913 0.1733,0.26459 0.38709,0.26459 h 10.60291 c 0.21378,0 0.38708,-0.17331 0.38708,-0.26459 v -11.11832 c 0,-0.18415 -0.0246,-0.24341 -0.068,-0.28707 l -3.07869,-3.07869 c -0.0437,-0.0434 -0.10293,-0.068 -0.16458,-0.068 z"
+           style="fill:#e9e9e0;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <polygon
+           id="polygon3814"
+           points="37.5,0.151 37.5,12 49.349,12 "
+           style="fill:#d9d7ca"
+           transform="matrix(0.26458333,0,0,0.26458333,309.33572,306.97857)" />
+        <path
+           id="path3816"
+           d="M 322.04551,321.79524 H 311.4426 c -0.21379,0 -0.38709,-0.17331 -0.38709,-0.38709 v -4.11083 h 11.37708 v 4.11083 c 0,0.21378 -0.1733,0.38709 -0.38708,0.38709 z"
+           style="fill:#eeaf4b;stroke-width:0.26458332"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g3832"
+           transform="matrix(0.26458333,0,0,0.26458333,309.33572,306.97857)">
+		<path
+   id="path3824"
+   d="m 19.5,19 v -4 c 0,-0.551 0.448,-1 1,-1 0.553,0 1,-0.448 1,-1 0,-0.552 -0.447,-1 -1,-1 -1.654,0 -3,1.346 -3,3 v 4 c 0,1.103 -0.897,2 -2,2 -0.553,0 -1,0.448 -1,1 0,0.552 0.447,1 1,1 1.103,0 2,0.897 2,2 v 4 c 0,1.654 1.346,3 3,3 0.553,0 1,-0.448 1,-1 0,-0.552 -0.447,-1 -1,-1 -0.552,0 -1,-0.449 -1,-1 v -4 c 0,-1.2 -0.542,-2.266 -1.382,-3 0.84,-0.734 1.382,-1.8 1.382,-3 z"
+   style="fill:#eeaf4b"
+   inkscape:connector-curvature="0" />
+
+		<circle
+   id="circle3826"
+   r="1.5"
+   cy="18.5"
+   cx="27.5"
+   style="fill:#eeaf4b" />
+
+		<path
+   id="path3828"
+   d="m 39.5,21 c -1.103,0 -2,-0.897 -2,-2 v -4 c 0,-1.654 -1.346,-3 -3,-3 -0.553,0 -1,0.448 -1,1 0,0.552 0.447,1 1,1 0.552,0 1,0.449 1,1 v 4 c 0,1.2 0.542,2.266 1.382,3 -0.84,0.734 -1.382,1.8 -1.382,3 v 4 c 0,0.551 -0.448,1 -1,1 -0.553,0 -1,0.448 -1,1 0,0.552 0.447,1 1,1 1.654,0 3,-1.346 3,-3 v -4 c 0,-1.103 0.897,-2 2,-2 0.553,0 1,-0.448 1,-1 0,-0.552 -0.447,-1 -1,-1 z"
+   style="fill:#eeaf4b"
+   inkscape:connector-curvature="0" />
+
+		<path
+   id="path3830"
+   d="m 27.5,24 c -0.553,0 -1,0.448 -1,1 v 3 c 0,0.552 0.447,1 1,1 0.553,0 1,-0.448 1,-1 v -3 c 0,-0.552 -0.447,-1 -1,-1 z"
+   style="fill:#eeaf4b"
+   inkscape:connector-curvature="0" />
+
+	</g>
+      </g>
+      <g
+         style="fill:#e9e9e0;fill-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,309.93707,304.57314)"
+         id="g3822">
+		
+		
+	<text
+   id="text4747"
+   y="63.535652"
+   x="-73.785843"
+   style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e9e9e0;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     y="76.512215"
+     x="-73.785843"
+     id="tspan4745"
+     sodipodi:role="line" /></text>
+<text
+   id="text4751"
+   y="52.896938"
+   x="8.4127588"
+   style="font-style:normal;font-weight:normal;font-size:44.57376862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e9e9e0;fill-opacity:1;stroke:none;stroke-width:1.11434424"
+   xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.85792446px;font-family:'Neutra Text';-inkscape-font-specification:'Neutra Text, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e9e9e0;fill-opacity:1;stroke-width:1.11434424"
+     y="52.896938"
+     x="8.4127588"
+     id="tspan4749"
+     sodipodi:role="line">WAUSAU.JS</tspan></text>
+</g>
+    </g>
+  </g>
+</svg>
